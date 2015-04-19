@@ -1,0 +1,35 @@
+try load node stat file...
+working dir: /Users/amos/Downloads/ddpush-1.0.03
+start connector...
+udp connector port:9966
+console listening port:9900
+udp connector recv buffer size:5033164
+udp connector send buffer size:5033164
+NIO TCP Push Listener nio provider: sun.nio.ch.KQueueSelectorProvider
+push listener port:9999
+nio tcp connector port:9966
+NIO TCP Connector nio provider: sun.nio.ch.KQueueSelectorProvider
+start 3 workers...
+server is up 
+cleaner quit
+saved 2 stat machines
+shut down server... 
+server is down, bye 
+try load node stat file...
+2 stat machine loaded 
+working dir: /Users/amos/Downloads/ddpush-1.0.03
+start connector...
+udp connector port:9966
+console listening port:9900
+udp connector recv buffer size:5033164
+udp connector send buffer size:5033164
+NIO TCP Push Listener nio provider: sun.nio.ch.KQueueSelectorProvider
+push listener port:9999
+nio tcp connector port:9966
+NIO TCP Connector nio provider: sun.nio.ch.KQueueSelectorProvider
+start 3 workers...
+server is up 
+cleaner quit
+saved 2 stat machines
+shut down server... 
+server is down, bye 
